@@ -1,0 +1,44 @@
+* { 
+    padding:0;
+    margin:0;
+ }
+body{
+    background: rgb(147,147,147);
+background: linear-gradient(0deg, rgba(147,147,147,1) 0%, rgba(79,79,79,1) 100%);
+    margin: 15px 50px;
+}
+
+
+p{
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    
+   
+ }
+
+h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    color: rgb(20, 20, 20);
+    text-decoration: underline;
+    text-shadow: 1px 1px rgba(245, 245, 245, 0.678);
+}
+
+.texto{
+    font-size: 20px;
+
+}
+
+.videos{
+    align-items: center;
+    width: 60%;
+}
+
+.videos2{
+    align-items: center;
+    width: 33.3%;
+}
+
+img{
+    width: 50%;
+}
